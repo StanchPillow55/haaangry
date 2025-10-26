@@ -1,12 +1,11 @@
 # Haaangry
 
 ## If Tik-Tok, Tinder, and Doordash had a baby
-<iframe width="560" height="315"
-  src="https://www.youtube.com/embed/qiALzNWwzLU"
-  title="YouTube video player" frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-  allowfullscreen>
-</iframe>
+
+[![Watch the Demo](https://img.youtube.com/vi/qiALzNWwzLU/hqdefault.jpg)](https://youtube.com/shorts/qiALzNWwzLU)
+<video controls width="640">
+  <source src="media/demo.mp4" type="video/mp4">
+</video>
 
 
 ## Inspiration
